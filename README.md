@@ -2,7 +2,6 @@
 
 **Note: This is an unusable template as of now.**
 
-A simple quest mod template.
 
 ## Introduction
 
