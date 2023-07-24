@@ -17,3 +17,6 @@ Special thanks to:
 
 This project is licensed under  a MIT License.
 
+## Discord Server
+
+[Join](https://discord.gg/Jxk44JBfAc)
