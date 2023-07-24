@@ -10,7 +10,7 @@ This repository serves as a starting point for creating your own quest mods for 
 
 Special thanks to:
 
-- Cat Man - For their invaluable contributions in making this Quest Mod Template.
+- Cat Man - For making the Quest Mod Template.
 - Fox - For posting this template to GitHub so you can skid it <3.
 
 ## License
