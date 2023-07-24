@@ -8,8 +8,6 @@ This repository serves as a starting point for creating your own quest mods for 
 
 ## Credits
 
-Special thanks to:
-
 - Cat Man - For making the Quest Mod Template.
 - Fox - For posting this template to GitHub so you can skid it <3.
 
