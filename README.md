@@ -1,6 +1,6 @@
 # Quest Mod Template
 
-**NOTE: This is an unusable template as of now.**
+**Note: This is an unusable template as of now.**
 
 A simple quest mod template.
 
