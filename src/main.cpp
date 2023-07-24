@@ -11,17 +11,12 @@ Configuration& getConfig() {
     return config;
 }
 
-void DebugLog(const std::string& msg)
-{
-    getLogger().info("%s", msg.c_str());
-}
 
 Logger& getLogger() {
     static Logger* logger = new Logger(modInfo);
     return *logger;
 }
 
-extern void Install_Update_Hook(Logger& logger);
 
 extern "C" void setup(ModInfo& info) {
     info.id = info.id;
@@ -37,10 +32,7 @@ extern "C" void load() {
     getLogger().info("Installing hooks...");
 
     getLogger().info("Installing The Main Hook...");
-    Install_Update_Hook(getLogger());
     getLogger().info("Installed all hooks!");
-    getLogger().info("Core Hook Installed! Main Mod is Ready. Please be nice and give QuestWare Credits :3");
-    getLogger().info("CatMan Was Here");
 }
 
 
