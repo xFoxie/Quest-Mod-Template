@@ -4,7 +4,7 @@ A simple quest mod template.
 
 ## Introduction
 
-This repository serves as a starting point for creating your own quest mods for almost any quest-based game.
+This repository serves as a starting point for creating your own quest mods for almost every quest-based game.
 
 ## Credits
 
