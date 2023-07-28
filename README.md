@@ -1,7 +1,10 @@
-# Quest Mod Template
+# Discontinued
 
-**Note: This is an unusable template as of now.**
+I don't feel like updating it anymore.
 
+## Quest Mod Template
+
+Note: This is an unusable template as of now.
 
 ## Introduction
 
